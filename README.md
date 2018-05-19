@@ -2,4 +2,4 @@
 #### Creat-React-App is used in this project.
 
 Screenshort
-![Alt text](https://github.com/Galloa118/react_simple_app/blob/master/image of app.jpg "Optional title")
+![Alt text](https://github.com/Galloa118/react_simple_app/blob/master/image_app.jpg "Optional title")
